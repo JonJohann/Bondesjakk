@@ -1,0 +1,34 @@
+c:\users\runeeven\documents\visual studio 2015\Projects\bondesjakk\bondesjakk\bin\Debug\bondesjakk.exe.config
+c:\users\runeeven\documents\visual studio 2015\Projects\bondesjakk\bondesjakk\bin\Debug\bondesjakk.exe
+c:\users\runeeven\documents\visual studio 2015\Projects\bondesjakk\bondesjakk\bin\Debug\bondesjakk.pdb
+c:\users\runeeven\documents\visual studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.csprojResolveAssemblyReference.cache
+c:\users\runeeven\documents\visual studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.Form1.resources
+c:\users\runeeven\documents\visual studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.Properties.Resources.resources
+c:\users\runeeven\documents\visual studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.csproj.GenerateResource.Cache
+c:\users\runeeven\documents\visual studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.exe
+c:\users\runeeven\documents\visual studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.pdb
+C:\Users\RuneEven\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\bin\Debug\bondesjakk.exe.config
+C:\Users\RuneEven\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.exe
+C:\Users\RuneEven\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.pdb
+C:\Users\RuneEven\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.csprojResolveAssemblyReference.cache
+C:\Users\RuneEven\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.Form1.resources
+C:\Users\RuneEven\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.Properties.Resources.resources
+C:\Users\RuneEven\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.csproj.GenerateResource.Cache
+D:\horu3012\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\bin\Debug\bondesjakk.exe.config
+D:\horu3012\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.exe
+D:\horu3012\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.pdb
+D:\horu3012\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\bin\Debug\bondesjakk.exe
+D:\horu3012\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\bin\Debug\bondesjakk.pdb
+D:\horu3012\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.csprojResolveAssemblyReference.cache
+D:\horu3012\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.Form1.resources
+D:\horu3012\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.Properties.Resources.resources
+D:\horu3012\OneDrive – Akershus FK\GitHub_3INF5\bondesjakk\bondesjakk\obj\Debug\bondesjakk.csproj.GenerateResource.Cache
+D:\horu3012\Documents\Visual Studio 2015\Projects\bondesjakk\bondesjakk\bin\Debug\bondesjakk.exe.config
+D:\horu3012\Documents\Visual Studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.exe
+D:\horu3012\Documents\Visual Studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.pdb
+D:\horu3012\Documents\Visual Studio 2015\Projects\bondesjakk\bondesjakk\bin\Debug\bondesjakk.exe
+D:\horu3012\Documents\Visual Studio 2015\Projects\bondesjakk\bondesjakk\bin\Debug\bondesjakk.pdb
+D:\horu3012\Documents\Visual Studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.csprojResolveAssemblyReference.cache
+D:\horu3012\Documents\Visual Studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.Form1.resources
+D:\horu3012\Documents\Visual Studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.Properties.Resources.resources
+D:\horu3012\Documents\Visual Studio 2015\Projects\bondesjakk\bondesjakk\obj\Debug\bondesjakk.csproj.GenerateResource.Cache
